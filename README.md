@@ -20,3 +20,7 @@ Starting your own example
 - [Stock Analysis](https://github.com/joaomdmoura/crewAI-examples/tree/main/stock_analysis)
 - [Landing Page Generator](https://github.com/joaomdmoura/crewAI-examples/tree/main/landing_page_generator)
 - [CrewAI + LangGraph](https://github.com/joaomdmoura/crewAI-examples/tree/main/CrewAI-LangGraph)
+
+### Ollama Integration
+
+- see `./ollama`
